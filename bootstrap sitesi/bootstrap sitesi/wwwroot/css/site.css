@@ -1,0 +1,56 @@
+#font-logo {
+    font-family: 'Zen Tokyo zoo', cursive;
+    font-size: 24px;
+    position: relative;
+    top: 18px;
+    left: 10px;
+    color: #0b1f41;
+}
+
+    #font-logo span {
+        color: #bb2026;
+    }
+
+.bg-light {
+    background-color: #ffffff !important;
+}
+
+.nav-link:hover {
+    color: #bb2026 !important;
+}
+
+#anasayfa {
+    margin-top: 93.7px;
+}
+
+    #anasayfa .carousel-control-next, #anasayfa .carousel-control-prev {
+        width: 5%;
+    }
+
+.carousel_height {
+    height: 75vh;
+}
+
+#slide-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,.5);
+    color: #fff;
+}
+/*.mail_ {
+    background-image: url('../img/img/main_bg.jpg');
+    background-position:center;
+    background-size:cover;
+    
+}
+    */
+.form-control:focus {
+    box-shadow: 0 0 0 0.25rem rgb(79 237 16) !important;
+}
+
+#hakkimizda {
+    padding: 100px 0;
+}

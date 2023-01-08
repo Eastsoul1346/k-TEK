@@ -1,0 +1,109 @@
+D:\HHN\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\appsettings.Development.json
+D:\HHN\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\appsettings.json
+D:\HHN\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.staticwebassets.runtime.json
+D:\HHN\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.exe
+D:\HHN\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.deps.json
+D:\HHN\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.runtimeconfig.json
+D:\HHN\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.dll
+D:\HHN\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.pdb
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.csproj.AssemblyReference.cache
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.AssemblyInfoInputs.cache
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.AssemblyInfo.cs
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.csproj.CoreCompileInputs.cache
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.MvcApplicationPartsAssemblyInfo.cache
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.RazorAssemblyInfo.cache
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.RazorAssemblyInfo.cs
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.build.json
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.development.json
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\bundle\bootstrap sitesi.styles.css
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\projectbundle\bootstrap sitesi.bundle.scp.css
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.dll
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\refint\bootstrap sitesi.dll
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.pdb
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.genruntimeconfig.cache
+D:\HHN\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\ref\bootstrap sitesi.dll
+D:\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\appsettings.Development.json
+D:\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\appsettings.json
+D:\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.staticwebassets.runtime.json
+D:\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.exe
+D:\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.deps.json
+D:\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.runtimeconfig.json
+D:\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.dll
+D:\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.pdb
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.csproj.AssemblyReference.cache
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.AssemblyInfoInputs.cache
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.AssemblyInfo.cs
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.csproj.CoreCompileInputs.cache
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.MvcApplicationPartsAssemblyInfo.cache
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.RazorAssemblyInfo.cache
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.RazorAssemblyInfo.cs
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.build.json
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.development.json
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\bundle\bootstrap sitesi.styles.css
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\projectbundle\bootstrap sitesi.bundle.scp.css
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.dll
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\refint\bootstrap sitesi.dll
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.pdb
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.genruntimeconfig.cache
+D:\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\ref\bootstrap sitesi.dll
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\appsettings.json
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.staticwebassets.runtime.json
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.exe
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.deps.json
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.runtimeconfig.json
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.dll
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.pdb
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.csproj.AssemblyReference.cache
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.AssemblyInfoInputs.cache
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.AssemblyInfo.cs
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.csproj.CoreCompileInputs.cache
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.RazorAssemblyInfo.cache
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.RazorAssemblyInfo.cs
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\bundle\bootstrap sitesi.styles.css
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\projectbundle\bootstrap sitesi.bundle.scp.css
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.dll
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\refint\bootstrap sitesi.dll
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.pdb
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.genruntimeconfig.cache
+C:\Users\Robotik\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\ref\bootstrap sitesi.dll
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\appsettings.json
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.staticwebassets.runtime.json
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.exe
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.deps.json
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.runtimeconfig.json
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.dll
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\bin\Debug\net6.0\bootstrap sitesi.pdb
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.AssemblyInfoInputs.cache
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.AssemblyInfo.cs
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.RazorAssemblyInfo.cache
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.RazorAssemblyInfo.cs
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets\msbuild.bootstrap sitesi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets\msbuild.build.bootstrap sitesi.props
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.bootstrap sitesi.props
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.bootstrap sitesi.props
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\bundle\bootstrap sitesi.styles.css
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\scopedcss\projectbundle\bootstrap sitesi.bundle.scp.css
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.dll
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\refint\bootstrap sitesi.dll
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.pdb
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\bootstrap sitesi.genruntimeconfig.cache
+C:\Users\Arda\Desktop\bootstrap sitesi\bootstrap sitesi\obj\Debug\net6.0\ref\bootstrap sitesi.dll

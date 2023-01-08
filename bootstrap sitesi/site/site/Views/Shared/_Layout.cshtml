@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - site</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/site.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Andika&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body class="bg-dark">
+    <header>
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light  py-3 ">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="~/img/logo.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
+                    <span id="font-logo">K-</span><span id="tek" class="text-white">TEK</span>                   
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto ">
+                        <li class="nav-item">
+                            <a class="nav-link active  text-white" aria-current="page" href="#anaSayfa">AnaSayfa</a>
+                        </li>                  
+                        <li class="nav-item">
+                            <a class="nav-link  text-white" href="#Bolumler">Bölümler</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="#hakkimizda">Hakkımızda</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  text-white " href="#Blog">Blog</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link   text-white" href="#İletisim">İletişim</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </header>
+    
+      
+            @RenderBody()
+    
+   
+
+    
+  
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+<footer class="text-dark">
+
+    <div class="container__footer">
+        <div class="box__footer">
+            <div class="logo">
+                <img src="Images/logo-magtimus.png" alt="">
+            </div>
+            <div class="terms">
+                <p>Bize ulaşmak için 7/24 mail atabilirsiinz  saat:9:00 ile 17:00 saatleri arasında Bizi arayabilir ve okulumuzu ziyarette bulunabilrsiniz.</p>
+            </div>
+        </div>
+      
+
+        <div class="box__footer">
+            <h2>Bölümlerimiz</h2>
+            <a href="#">Makina Tasarın A.Ş.</a>
+            <a href="#">Bilişim Teknoloji A.Ş</a>
+            <a href="#">Tesisat İklimlendirme A.Ş</a>
+            <a href="#">Elektirik Elektironik A.Ş</a>
+        </div>
+
+        <div class="box__footer">
+            <h2>Sosyal meyalarımız</h2>
+            <a href="#"> <i class="fab fa-facebook-square"></i> Facebook</a>
+            <a href="#"><i class="fab fa-twitter-square"></i> Twitter</a>
+            <a href="#"><i class="fab fa-linkedin"></i> Linkedin</a>
+            <a href="#"><i class="fab fa-instagram-square"></i> Instagram</a>
+        </div>
+
+    </div>
+
+    <div class="box__copyright">
+        <hr>
+        <p>Tüm hakları kılıçarsan İMKB tarafından saklıdır © 2022 <b>Arda</b></p>
+    </div>
+</footer>
+</html>
